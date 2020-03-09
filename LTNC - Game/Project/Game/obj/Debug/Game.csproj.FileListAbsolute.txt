@@ -1,0 +1,20 @@
+C:\Users\Double D\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Double D\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\Double D\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\Double D\Desktop\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Double D\Desktop\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Double D\Desktop\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\Double D\Desktop\Game\Game\obj\Debug\Game.pdb
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\bin\Debug\Game.exe.config
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\bin\Debug\Game.exe
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\bin\Debug\Game.pdb
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\obj\Debug\Game.Form1.resources
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\obj\Debug\Game.exe
+D:\Work\Lập trình nâng cao\LTNC - Game\Project\Game\obj\Debug\Game.pdb

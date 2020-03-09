@@ -1,0 +1,30 @@
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\bin\Debug\Bài 2.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\bin\Debug\Bài 2.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\bin\Debug\Bài 2.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\obj\Debug\Bài_2.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\obj\Debug\Bài 2 Kiểm tra số.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\obj\Debug\Bài 2 Kiểm tra số.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\obj\Debug\Bài 2.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\obj\Debug\Bài 2.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 2\obj\Debug\Bài 2 Kiểm tra số.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\bin\Debug\Bài 2.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\bin\Debug\Bài 2.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\bin\Debug\Bài 2.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2 Kiểm tra số.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài_2.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài_2.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2 Kiểm tra số.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2 Kiểm tra số.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\bin\Debug\Bài 2.exe.config
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\bin\Debug\Bài 2.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\bin\Debug\Bài 2.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2 Kiểm tra số.csprojAssemblyReference.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài_2.Form1.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài_2.Properties.Resources.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2 Kiểm tra số.csproj.GenerateResource.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2 Kiểm tra số.csproj.CoreCompileInputs.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 2 Kiểm tra số\obj\Debug\Bài 2.pdb

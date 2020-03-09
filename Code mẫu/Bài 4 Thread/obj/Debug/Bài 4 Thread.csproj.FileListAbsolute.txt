@@ -1,0 +1,30 @@
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\obj\Debug\Bài_4_Thread.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\obj\Debug\Bài_4_Thread.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài_4_Thread.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài_4_Thread.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.exe.config
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\bin\Debug\Bài 4 Thread.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csprojAssemblyReference.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài_4_Thread.Form1.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài_4_Thread.Properties.Resources.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csproj.GenerateResource.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.csproj.CoreCompileInputs.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 4 Thread\obj\Debug\Bài 4 Thread.pdb

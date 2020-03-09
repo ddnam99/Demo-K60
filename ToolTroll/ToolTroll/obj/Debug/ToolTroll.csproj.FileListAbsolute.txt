@@ -1,0 +1,10 @@
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\bin\Debug\ToolTroll.exe.config
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\bin\Debug\ToolTroll.exe
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\bin\Debug\ToolTroll.pdb
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\obj\Debug\ToolTroll.csprojAssemblyReference.cache
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\obj\Debug\ToolTroll.Form1.resources
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\obj\Debug\ToolTroll.Properties.Resources.resources
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\obj\Debug\ToolTroll.csproj.GenerateResource.cache
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\obj\Debug\ToolTroll.csproj.CoreCompileInputs.cache
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\obj\Debug\ToolTroll.exe
+C:\Users\nampt\Desktop\ToolTroll\ToolTroll\obj\Debug\ToolTroll.pdb

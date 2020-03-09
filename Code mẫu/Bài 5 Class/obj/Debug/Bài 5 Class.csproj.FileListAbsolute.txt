@@ -1,0 +1,30 @@
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\obj\Debug\Bài_5_Class.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\obj\Debug\Bài_5_Class.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài_5_Class.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài_5_Class.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.exe.config
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\bin\Debug\Bài 5 Class.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csprojAssemblyReference.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài_5_Class.Form1.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài_5_Class.Properties.Resources.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csproj.GenerateResource.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.csproj.CoreCompileInputs.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 5 Class\obj\Debug\Bài 5 Class.pdb

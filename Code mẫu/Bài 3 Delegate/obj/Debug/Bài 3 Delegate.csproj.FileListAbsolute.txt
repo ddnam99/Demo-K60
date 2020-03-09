@@ -1,0 +1,29 @@
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\obj\Debug\Bài_3_Delegate.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\obj\Debug\Bài_3_Delegate.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài_3_Delegate.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài_3_Delegate.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.exe.config
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\bin\Debug\Bài 3 Delegate.pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csprojAssemblyReference.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài_3_Delegate.Form1.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài_3_Delegate.Properties.Resources.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csproj.GenerateResource.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.csproj.CoreCompileInputs.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 3 Delegate\obj\Debug\Bài 3 Delegate.pdb

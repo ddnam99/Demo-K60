@@ -1,0 +1,20 @@
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\bin\Debug\Bài 6 Kết nối CSDL (SQL).exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\bin\Debug\Bài 6 Kết nối CSDL (SQL).exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\bin\Debug\Bài 6 Kết nối CSDL (SQL).pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài_6_Kết_nối_CSDL__SQL_.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài_6_Kết_nối_CSDL__SQL_.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\bin\Debug\Bài 6 Kết nối CSDL (SQL).exe.config
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\bin\Debug\Bài 6 Kết nối CSDL (SQL).exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\bin\Debug\Bài 6 Kết nối CSDL (SQL).pdb
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).csprojAssemblyReference.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài_6_Kết_nối_CSDL__SQL_.Properties.Resources.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài_6_Kết_nối_CSDL__SQL_.Form1.resources
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).csproj.GenerateResource.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).csproj.CoreCompileInputs.cache
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).exe
+D:\Work\Lập trình nâng cao\Code mẫu\Bài 6 Kết nối CSDL (SQL)\obj\Debug\Bài 6 Kết nối CSDL (SQL).pdb

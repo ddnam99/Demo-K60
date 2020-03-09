@@ -1,0 +1,10 @@
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\bin\Debug\Bài 1.exe.config
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\bin\Debug\Bài 1.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\bin\Debug\Bài 1.pdb
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\obj\Debug\Bài 1 Làm quen.csprojAssemblyReference.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\obj\Debug\Bài_1.Form1.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\obj\Debug\Bài_1.Properties.Resources.resources
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\obj\Debug\Bài 1 Làm quen.csproj.GenerateResource.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\obj\Debug\Bài 1 Làm quen.csproj.CoreCompileInputs.cache
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\obj\Debug\Bài 1.exe
+C:\Users\Double D\Desktop\Lập trình nâng cao\Code mẫu\Bài 1 Làm quen\obj\Debug\Bài 1.pdb
