@@ -1,0 +1,13 @@
+C:\Users\nampt\OneDrive\Desktop\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.exe
+C:\Users\nampt\OneDrive\Desktop\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.deps.json
+C:\Users\nampt\OneDrive\Desktop\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.json
+C:\Users\nampt\OneDrive\Desktop\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.dev.json
+C:\Users\nampt\OneDrive\Desktop\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.dll
+C:\Users\nampt\OneDrive\Desktop\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.pdb
+C:\Users\nampt\OneDrive\Desktop\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csprojAssemblyReference.cache
+C:\Users\nampt\OneDrive\Desktop\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csproj.CoreCompileInputs.cache
+C:\Users\nampt\OneDrive\Desktop\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfoInputs.cache
+C:\Users\nampt\OneDrive\Desktop\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfo.cs
+C:\Users\nampt\OneDrive\Desktop\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.dll
+C:\Users\nampt\OneDrive\Desktop\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.pdb
+C:\Users\nampt\OneDrive\Desktop\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.genruntimeconfig.cache
