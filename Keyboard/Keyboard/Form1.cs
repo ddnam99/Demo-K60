@@ -37,6 +37,8 @@ namespace Keyboard
                 button.BackColor = Color.Orange;
                 Button_Click(button, e);
             }
+
+            if (e.KeyCode == Keys.Space) e.Handled = true;
         }
 
         private void Form1_KeyUp(object sender, KeyEventArgs e)
@@ -83,8 +85,6 @@ namespace Keyboard
                     textbox.Text += button.Text;
                     break;
             }
-
-            this.Focus();
         }
     }
 }
