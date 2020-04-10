@@ -93,8 +93,6 @@
             this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.Button_Click);
-            this.button1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button1.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button1.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -110,8 +108,6 @@
             this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.Button_Click);
-            this.button2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button2.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button2.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button2.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -127,8 +123,6 @@
             this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.Button_Click);
-            this.button3.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button3.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button3.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button3.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -144,8 +138,6 @@
             this.button4.Text = "4";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.Button_Click);
-            this.button4.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button4.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button4.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button4.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -161,8 +153,6 @@
             this.button5.Text = "5";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.Button_Click);
-            this.button5.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button5.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button5.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button5.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -178,8 +168,6 @@
             this.button6.Text = "6";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.Button_Click);
-            this.button6.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button6.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button6.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button6.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -195,8 +183,6 @@
             this.button7.Text = "7";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.Button_Click);
-            this.button7.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button7.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button7.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button7.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -212,8 +198,6 @@
             this.button8.Text = "8";
             this.button8.UseVisualStyleBackColor = false;
             this.button8.Click += new System.EventHandler(this.Button_Click);
-            this.button8.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button8.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button8.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button8.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -229,8 +213,6 @@
             this.button9.Text = "9";
             this.button9.UseVisualStyleBackColor = false;
             this.button9.Click += new System.EventHandler(this.Button_Click);
-            this.button9.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button9.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button9.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button9.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -246,8 +228,6 @@
             this.button10.Text = "0";
             this.button10.UseVisualStyleBackColor = false;
             this.button10.Click += new System.EventHandler(this.Button_Click);
-            this.button10.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button10.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button10.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button10.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -263,8 +243,6 @@
             this.button11.Text = "Back";
             this.button11.UseVisualStyleBackColor = false;
             this.button11.Click += new System.EventHandler(this.Button_Click);
-            this.button11.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button11.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button11.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button11.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -280,8 +258,6 @@
             this.button12.Text = "Q";
             this.button12.UseVisualStyleBackColor = false;
             this.button12.Click += new System.EventHandler(this.Button_Click);
-            this.button12.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button12.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button12.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button12.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -297,8 +273,6 @@
             this.button13.Text = "W";
             this.button13.UseVisualStyleBackColor = false;
             this.button13.Click += new System.EventHandler(this.Button_Click);
-            this.button13.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button13.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button13.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button13.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -314,8 +288,6 @@
             this.button14.Text = "Y";
             this.button14.UseVisualStyleBackColor = false;
             this.button14.Click += new System.EventHandler(this.Button_Click);
-            this.button14.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button14.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button14.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button14.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -331,8 +303,6 @@
             this.button15.Text = "E";
             this.button15.UseVisualStyleBackColor = false;
             this.button15.Click += new System.EventHandler(this.Button_Click);
-            this.button15.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button15.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button15.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button15.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -348,8 +318,6 @@
             this.button16.Text = "U";
             this.button16.UseVisualStyleBackColor = false;
             this.button16.Click += new System.EventHandler(this.Button_Click);
-            this.button16.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button16.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button16.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button16.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -365,8 +333,6 @@
             this.button17.Text = "R";
             this.button17.UseVisualStyleBackColor = false;
             this.button17.Click += new System.EventHandler(this.Button_Click);
-            this.button17.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button17.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button17.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button17.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -382,8 +348,6 @@
             this.button18.Text = "I";
             this.button18.UseVisualStyleBackColor = false;
             this.button18.Click += new System.EventHandler(this.Button_Click);
-            this.button18.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button18.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button18.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button18.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -399,8 +363,6 @@
             this.button19.Text = "T";
             this.button19.UseVisualStyleBackColor = false;
             this.button19.Click += new System.EventHandler(this.Button_Click);
-            this.button19.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button19.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button19.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button19.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -416,8 +378,6 @@
             this.button20.Text = "O";
             this.button20.UseVisualStyleBackColor = false;
             this.button20.Click += new System.EventHandler(this.Button_Click);
-            this.button20.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button20.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button20.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button20.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -433,8 +393,6 @@
             this.button21.Text = "P";
             this.button21.UseVisualStyleBackColor = false;
             this.button21.Click += new System.EventHandler(this.Button_Click);
-            this.button21.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button21.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button21.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button21.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -450,8 +408,6 @@
             this.button22.Text = "A";
             this.button22.UseVisualStyleBackColor = false;
             this.button22.Click += new System.EventHandler(this.Button_Click);
-            this.button22.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button22.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button22.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button22.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -467,8 +423,6 @@
             this.button23.Text = "S";
             this.button23.UseVisualStyleBackColor = false;
             this.button23.Click += new System.EventHandler(this.Button_Click);
-            this.button23.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button23.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button23.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button23.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -484,8 +438,6 @@
             this.button24.Text = "H";
             this.button24.UseVisualStyleBackColor = false;
             this.button24.Click += new System.EventHandler(this.Button_Click);
-            this.button24.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button24.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button24.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button24.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -501,8 +453,6 @@
             this.button25.Text = "D";
             this.button25.UseVisualStyleBackColor = false;
             this.button25.Click += new System.EventHandler(this.Button_Click);
-            this.button25.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button25.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button25.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button25.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -518,8 +468,6 @@
             this.button26.Text = "J";
             this.button26.UseVisualStyleBackColor = false;
             this.button26.Click += new System.EventHandler(this.Button_Click);
-            this.button26.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button26.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button26.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button26.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -535,8 +483,6 @@
             this.button27.Text = "F";
             this.button27.UseVisualStyleBackColor = false;
             this.button27.Click += new System.EventHandler(this.Button_Click);
-            this.button27.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button27.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button27.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button27.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -552,8 +498,6 @@
             this.button28.Text = "K";
             this.button28.UseVisualStyleBackColor = false;
             this.button28.Click += new System.EventHandler(this.Button_Click);
-            this.button28.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button28.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button28.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button28.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -569,8 +513,6 @@
             this.button29.Text = "G";
             this.button29.UseVisualStyleBackColor = false;
             this.button29.Click += new System.EventHandler(this.Button_Click);
-            this.button29.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button29.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button29.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button29.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -586,8 +528,6 @@
             this.button30.Text = "L";
             this.button30.UseVisualStyleBackColor = false;
             this.button30.Click += new System.EventHandler(this.Button_Click);
-            this.button30.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button30.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button30.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button30.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -603,8 +543,6 @@
             this.button31.Text = "Z";
             this.button31.UseVisualStyleBackColor = false;
             this.button31.Click += new System.EventHandler(this.Button_Click);
-            this.button31.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button31.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button31.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button31.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -620,8 +558,6 @@
             this.button32.Text = "X";
             this.button32.UseVisualStyleBackColor = false;
             this.button32.Click += new System.EventHandler(this.Button_Click);
-            this.button32.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button32.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button32.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button32.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -637,8 +573,6 @@
             this.button33.Text = "N";
             this.button33.UseVisualStyleBackColor = false;
             this.button33.Click += new System.EventHandler(this.Button_Click);
-            this.button33.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button33.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button33.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button33.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -654,8 +588,6 @@
             this.button34.Text = "C";
             this.button34.UseVisualStyleBackColor = false;
             this.button34.Click += new System.EventHandler(this.Button_Click);
-            this.button34.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button34.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button34.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button34.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -671,8 +603,6 @@
             this.button35.Text = "M";
             this.button35.UseVisualStyleBackColor = false;
             this.button35.Click += new System.EventHandler(this.Button_Click);
-            this.button35.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button35.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button35.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button35.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -688,8 +618,6 @@
             this.button36.Text = "V";
             this.button36.UseVisualStyleBackColor = false;
             this.button36.Click += new System.EventHandler(this.Button_Click);
-            this.button36.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button36.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button36.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button36.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -705,8 +633,6 @@
             this.button38.Text = "B";
             this.button38.UseVisualStyleBackColor = false;
             this.button38.Click += new System.EventHandler(this.Button_Click);
-            this.button38.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button38.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button38.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button38.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -722,8 +648,6 @@
             this.button39.Text = "Space";
             this.button39.UseVisualStyleBackColor = false;
             this.button39.Click += new System.EventHandler(this.Button_Click);
-            this.button39.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.button39.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.button39.MouseEnter += new System.EventHandler(this.Button_MouseEnter);
             this.button39.MouseLeave += new System.EventHandler(this.Button_MouseLeave);
             // 
@@ -771,6 +695,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textbox);
+            this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "Form1";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);

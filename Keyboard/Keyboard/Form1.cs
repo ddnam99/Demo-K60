@@ -23,7 +23,6 @@ namespace Keyboard
                     // Thêm (Key, Value) vào Dictionary
                     KeysDict.Add((Keys)keysConverter.ConvertFrom(button.Text), button);
                 }
-
         }
 
         #region Key Event
@@ -84,6 +83,8 @@ namespace Keyboard
                     textbox.Text += button.Text;
                     break;
             }
+
+            this.Focus();
         }
     }
 }
